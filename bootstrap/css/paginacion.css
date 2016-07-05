@@ -1,0 +1,43 @@
+/*paginacion.css*/
+.loading-div{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	 background: rgba(255, 255, 255, 0.54);  
+	z-index: 999;
+	display:none;
+}
+.loading-div img {
+     	margin-top: 35%;  
+}
+
+ /* Paginacion style */
+.paginacion{margin-top:15px;padding:0;}
+.paginacion li{
+	display: inline;
+	padding: 6px 10px 6px 10px;
+	border: 1px solid #ddd;
+	margin-right: -1px;
+	font: 15px/20px Arial, Helvetica, sans-serif;
+	background: #FFFFFF;
+	box-shadow: inset 1px 1px 5px #F4F4F4;
+}
+.paginacion li a{
+    text-decoration:none;
+    color: rgb(89, 141, 235);
+}
+.paginacion li.first {
+    border-radius: 5px 0px 0px 5px;
+}
+.paginacion li.last {
+    border-radius: 0px 5px 5px 0px;
+}
+.paginacion li:hover{
+	background: #CFF;
+}
+.paginacion li.active{
+	background: #F0F0F0;
+	color: #333;
+} 
