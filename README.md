@@ -1,4 +1,4 @@
-# Inventario-Basico
+# Inventario Basico
 Para Iniciar Sesión Solo Debes Colocar : 
 
 <b>Usuario:</b> administrador                                                                                                            
