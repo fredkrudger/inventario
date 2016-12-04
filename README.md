@@ -28,7 +28,6 @@ ya registrado el Producto,   podemos <b>Ver, Editar, Eliminar.</b>
 Ya Dentro de esta Parte Podemos Agregar un Nuevo Envio, en caso de que se encuentre ninguno almacenado en la Base de datos. 
 y una vez almacenado el Envio, Estan las Opciones de:  <b>Detalles, Eliminar.</b>
 
-<<<<<<< HEAD
 <hr>
 
 En el Apartado de Administrador Cuenta tambien con una seccion <b>Usuarios</b> Disponible solo para el Administrador
@@ -37,6 +36,4 @@ En el Apartado de Administrador Cuenta tambien con una seccion <b>Usuarios</b> D
 
 En Usuarios el Adminstrador Puede Agregar un Nuevo Usuario, en caso de que no se encuentre ninguno en la Base de datos. 
 ya registrado o almacenado dicho Usuario,   podemos <b>Ver, Editar, Eliminar.</b>
-=======
-<b>Nota:</b> Cabe Señalar También que Para Poder Guardar un Envio, primero Debes Tener Al menos Un Producto ya Registrado en La Base de Datos, Para que Puedas Continuar El proceso de Envio.
->>>>>>> 446942e80d104328d6913c44f1a36546bf726908
+
