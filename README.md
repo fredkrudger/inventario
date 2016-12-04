@@ -1,4 +1,4 @@
-# Inventario Basico
+# Inventario
 
 El sistema de inventario cuenta con 4 modulos Relacionados con el Inventario y 1 modulo <b>Usuarios</b> el cual esta disponible solo para el Administrador ya que los usuarios no tiene ese rol para realizar esa acción, además también se le incorporo un ventana en el panel de administrador llamada: <b>Productos con Stock Minimo</b> Para Estar Siempre Alerta y Mantener La Cantidad de Productos Siempre Optima.
 
