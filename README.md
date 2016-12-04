@@ -24,6 +24,6 @@ Ya Dentro de esta Parte Podemos Agregar un Nuevo Envio, en caso de que se encuen
 y una vez almacenado el Envio, Estan las Opciones de:  <b>Detalles, Eliminar.</b> Y además También Cuenta con la Opcion de Generar un Reporte <b>PDF</b> Haciendo Uso de <b>FPDF</b>
 
 # Usuarios 
-En esta seccion el administrador tiene la opcion de agregar uno o varios usuario que puedan hacer solo consultas y registros, ya que se trabaja por roles. 
+En esta seccion el administrador tiene la opcion de agregar uno o varios usuarios que puedan hacer solo consultas y registros, ya que se trabaja por roles. 
  
 
